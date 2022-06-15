@@ -1,5 +1,24 @@
-# SourcePawnCourse
-SourcePawn zero-to-hero Course files
+# مقدمه
+
+
+## برنامه های مورد نیاز
+
+
+- [Visual Studio Code](https://code.visualstudio.com/Download)
+- [SourcePawn Extension](https://marketplace.visualstudio.com/items?itemName=Sarrus.sourcepawn-vscode)  
+  
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Links
 
 - Telegram : [@GladiatorCs](https://telegram.me/GladiatorCs)
 - Youtube : [GladiatorTeam](https://www.youtube.com/channel/UCE7bwH18JY2oW-OgzMXLYCA)
