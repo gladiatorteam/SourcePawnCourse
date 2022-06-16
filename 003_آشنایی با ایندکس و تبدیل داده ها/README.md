@@ -1,7 +1,6 @@
 # آشنایی با ایندکس و تبدیل داده
 
 
-- const
 - Formating
 - Convert
 - index and sizeof
@@ -9,18 +8,6 @@
 <br>
 <br>
 
-
-### Const
-```C++
-const int a = 10;
-a = 2;
-
-const int a;
-a = 10;
-```
-
-<br>
-<br>
 
 ### Formating
 
